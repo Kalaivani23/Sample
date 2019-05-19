@@ -8,7 +8,10 @@ public class LoginPage {
 	public void sub() {
 		System.out.println("Sub");
 	}
-
+	
+	public void multi() {
+		System.out.println("Multi");
+	}
 	public static void main(String[] args) {
 		LoginPage l = new LoginPage();
 		l.add();
