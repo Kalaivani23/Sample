@@ -8,11 +8,15 @@ public class LoginPage {
 	public void sub() {
 		System.out.println("Sub");
 	}
-	
+
 	public void multi() {
 		System.out.println("Multi");
 	}
-	
+
+	public void div() {
+		System.out.println("Div");
+	}
+
 	public void mod() {
 		System.out.println("Mod");
 		System.out.println("Kalaivani");
